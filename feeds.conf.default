@@ -10,4 +10,4 @@ src-git OpenClash https://github.com/vernesong/OpenClash.git
 src-git small https://github.com/kenzok8/small
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git helloworld https://github.com/fw876/helloworld
-https://github.com/jerrykuku/luci-app-ttnode.git
+src-git xepher https://github.com/jerrykuku/luci-app-ttnode.git
